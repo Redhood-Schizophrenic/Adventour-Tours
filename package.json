@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@xata.io/client": "^0.29.4",
+    "@xata.io/cli": "^0.16.11",
+    "@xata.io/client": "^0.29.5",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
